@@ -18,7 +18,7 @@ namespace inlämningsuppgift3_4
             }
             else
             {
-                Console.WriteLine("Låten är kvalificerad");
+                Console.WriteLine("Låten är kvalificerad");//
             }
         }
     }
